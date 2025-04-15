@@ -1,0 +1,28 @@
+.Img {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.Img_2 {
+    width: 250px;
+    height: 200px;
+}
+
+.Img_3 {
+    width: 250px;
+    height: 200px;
+}
+
+.Img_4 {
+    width: 250px;
+    height: 200px;
+}
+
+.Imagenes {
+    display: flex;
+    background-color: orange;
+    height: 750px;
+    margin-top: 200px;
+    justify-content: center;
+    gap: 2em;
+}
