@@ -1,28 +1,31 @@
-.Img {
-    margin-top: 50px;
-    margin-left: 200px;
-}
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ }
+ .header{
 
-.Img_2 {
-    width: 250px;
-    height: 200px;
-}
+ }
+ .main{
+    width: 100vw;
+    height: 60vh;
+    background-color: white;
+ }
+ .main .rojo{
+    background-color: #f58989;
+    width: 15vw;
+    height: 33vh;
+ }
+ .main .azul{
+    background-color: #69d0f0;
+    width: 15vw;
+    height: 33vh;
+ }
+ .main .amarillo{
+    background-color: #e9b443;
+    width: 15vw;
+    height: 33vh;
+ }
+ .footer{
 
-.Img_3 {
-    width: 250px;
-    height: 200px;
-}
-
-.Img_4 {
-    width: 250px;
-    height: 200px;
-}
-
-.Imagenes {
-    display: flex;
-    background-color: orange;
-    height: 750px;
-    margin-top: 200px;
-    justify-content: center;
-    gap: 2em;
-}
+ }
